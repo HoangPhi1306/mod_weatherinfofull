@@ -1,4 +1,4 @@
-# mod_weatherinfofull
+# mod_weather
 
 A simple Joomla module that displays current weather information using OpenWeatherMap API.
 
